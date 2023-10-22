@@ -1,0 +1,14 @@
+C:\Users\Amin\source\repos\cake\cake\bin\Debug\net6.0\cake.exe
+C:\Users\Amin\source\repos\cake\cake\bin\Debug\net6.0\cake.deps.json
+C:\Users\Amin\source\repos\cake\cake\bin\Debug\net6.0\cake.runtimeconfig.json
+C:\Users\Amin\source\repos\cake\cake\bin\Debug\net6.0\cake.dll
+C:\Users\Amin\source\repos\cake\cake\bin\Debug\net6.0\cake.pdb
+C:\Users\Amin\source\repos\cake\cake\obj\Debug\net6.0\cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\source\repos\cake\cake\obj\Debug\net6.0\cake.AssemblyInfoInputs.cache
+C:\Users\Amin\source\repos\cake\cake\obj\Debug\net6.0\cake.AssemblyInfo.cs
+C:\Users\Amin\source\repos\cake\cake\obj\Debug\net6.0\cake.csproj.CoreCompileInputs.cache
+C:\Users\Amin\source\repos\cake\cake\obj\Debug\net6.0\cake.dll
+C:\Users\Amin\source\repos\cake\cake\obj\Debug\net6.0\refint\cake.dll
+C:\Users\Amin\source\repos\cake\cake\obj\Debug\net6.0\cake.pdb
+C:\Users\Amin\source\repos\cake\cake\obj\Debug\net6.0\cake.genruntimeconfig.cache
+C:\Users\Amin\source\repos\cake\cake\obj\Debug\net6.0\ref\cake.dll
